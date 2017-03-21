@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
-    <h1>Content comming soon</h1>
+    <h1>Adding contents now</h1>
     <div class="row">
         <div class="col-sm-4">
             <div class="bs-component">
