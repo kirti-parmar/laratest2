@@ -2,6 +2,7 @@
 
 @section('content')
     <h1>Adding contents now</h1>
+    <h2>Welcome l like this</h2>
     <div class="row">
         <div class="col-sm-4">
             <div class="bs-component">
